@@ -1,8 +1,10 @@
+<!--entire background color,also who doesn't like pink?-->
 body {
     background-color: lightpink;
     margin: 60px auto;
     width: 70%;
 }
+<!--navbar and footer font-->
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -20,10 +22,12 @@ a {
 a:hover {
     text-decoration: underline;
 }
+<!--heading font-->
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+<!--paragraph font-->
 p {
     font-size: 1.5em;
     line-height: 1.4em;
